@@ -6,13 +6,15 @@
 
 解题概览
 
-### 简单
+### 索引
+
+#### [简单](https://github.com/Ijiran/leetcode-record/tree/main/src/main/java/top/pxyz/simple)
+
+[21.合并两个有序链表](https://github.com/Ijiran/leetcode-record/tree/main/src/main/java/top/pxyz/simple/s21)
+
+#### [中等](https://github.com/Ijiran/leetcode-record/tree/main/src/main/java/top/pxyz/medium)
 
 
 
-### 中等
-
-
-
-### 困难
+#### [困难](https://github.com/Ijiran/leetcode-record/tree/main/src/main/java/top/pxyz/difficulty)
 
