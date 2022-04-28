@@ -12,6 +12,8 @@
 
 [21.合并两个有序链表](https://github.com/Ijiran/leetcode-record/tree/main/src/main/java/top/pxyz/simple/s21)
 
+[905.按奇偶排序数组](https://github.com/Ijiran/leetcode-record/tree/main/src/main/java/top/pxyz/simple/s905)
+
 #### [中等](https://github.com/Ijiran/leetcode-record/tree/main/src/main/java/top/pxyz/medium)
 
 
