@@ -18,5 +18,7 @@
 
 [3.无重复字符的最长子串](https://github.com/Ijiran/leetcode-record/tree/main/src/main/java/top/pxyz/medium/m3)
 
+[8.字符串转换整数 (atoi)](https://github.com/Ijiran/leetcode-record/tree/main/src/main/java/top/pxyz/medium/m8)
+
 #### [困难](https://github.com/Ijiran/leetcode-record/tree/main/src/main/java/top/pxyz/difficulty)
 
