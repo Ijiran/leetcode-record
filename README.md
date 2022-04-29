@@ -16,7 +16,7 @@
 
 #### [中等](https://github.com/Ijiran/leetcode-record/tree/main/src/main/java/top/pxyz/medium)
 
-
+[3.无重复字符的最长子串](https://github.com/Ijiran/leetcode-record/tree/main/src/main/java/top/pxyz/medium/m3)
 
 #### [困难](https://github.com/Ijiran/leetcode-record/tree/main/src/main/java/top/pxyz/difficulty)
 
