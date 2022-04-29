@@ -10,6 +10,8 @@
 
 #### [简单](https://github.com/Ijiran/leetcode-record/tree/main/src/main/java/top/pxyz/simple)
 
+[9.回文数](https://github.com/Ijiran/leetcode-record/tree/main/src/main/java/top/pxyz/simple/s9)
+
 [21.合并两个有序链表](https://github.com/Ijiran/leetcode-record/tree/main/src/main/java/top/pxyz/simple/s21)
 
 #### [中等](https://github.com/Ijiran/leetcode-record/tree/main/src/main/java/top/pxyz/medium)
