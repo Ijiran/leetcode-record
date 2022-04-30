@@ -16,10 +16,13 @@
 
 [905.按奇偶排序数组](https://github.com/Ijiran/leetcode-record/tree/main/src/main/java/top/pxyz/simple/s905)
 
-#### [中等](https://github.com/Ijiran/leetcode-record/tree/main/src/main/java/top/pxyz/medium)
+[908.最小差值 I](https://github.com/Ijiran/leetcode-record/tree/main/src/main/java/top/pxyz/simple/s908)
 
+#### [中等](https://github.com/Ijiran/leetcode-record/tree/main/src/main/java/top/pxyz/medium)
 
 [3.无重复字符的最长子串](https://github.com/Ijiran/leetcode-record/tree/main/src/main/java/top/pxyz/medium/m3)
 
 #### [困难](https://github.com/Ijiran/leetcode-record/tree/main/src/main/java/top/pxyz/difficulty)
+
+[4.寻找两个正序数组的中位数](https://github.com/Ijiran/leetcode-record/tree/main/src/main/java/top/pxyz/difficulty/d4)
 
