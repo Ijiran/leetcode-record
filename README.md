@@ -22,6 +22,8 @@
 
 [3.无重复字符的最长子串](https://github.com/Ijiran/leetcode-record/tree/main/src/main/java/top/pxyz/medium/m3)
 
+[1305.两棵二叉搜索树中的所有元素](https://github.com/Ijiran/leetcode-record/tree/main/src/main/java/top/pxyz/medium/m1305)
+
 #### [困难](https://github.com/Ijiran/leetcode-record/tree/main/src/main/java/top/pxyz/difficulty)
 
 [4.寻找两个正序数组的中位数](https://github.com/Ijiran/leetcode-record/tree/main/src/main/java/top/pxyz/difficulty/d4)
