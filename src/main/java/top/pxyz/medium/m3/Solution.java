@@ -30,7 +30,7 @@ public class Solution {
         //声明一个结果值
         int result = 0;
         //声明一个Set集合
-        Set<Character> set = new HashSet<>();
+        Set<Character> set = new HashSet<Character>();
         int l = 0;
         for (int r = 0; r < s.length(); r++) {
             Character si = s.charAt(r);

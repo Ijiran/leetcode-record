@@ -10,9 +10,13 @@
 
 #### [简单](https://github.com/Ijiran/leetcode-record/tree/main/src/main/java/top/pxyz/simple)
 
+[9.回文数](https://github.com/Ijiran/leetcode-record/tree/main/src/main/java/top/pxyz/simple/s9)
+
 [21.合并两个有序链表](https://github.com/Ijiran/leetcode-record/tree/main/src/main/java/top/pxyz/simple/s21)
 
 [905.按奇偶排序数组](https://github.com/Ijiran/leetcode-record/tree/main/src/main/java/top/pxyz/simple/s905)
+
+[908.最小差值 I](https://github.com/Ijiran/leetcode-record/tree/main/src/main/java/top/pxyz/simple/s908)
 
 #### [中等](https://github.com/Ijiran/leetcode-record/tree/main/src/main/java/top/pxyz/medium)
 
@@ -20,5 +24,9 @@
 
 [8.字符串转换整数 (atoi)](https://github.com/Ijiran/leetcode-record/tree/main/src/main/java/top/pxyz/medium/m8)
 
+[1305.两棵二叉搜索树中的所有元素](https://github.com/Ijiran/leetcode-record/tree/main/src/main/java/top/pxyz/medium/m1305)
+
 #### [困难](https://github.com/Ijiran/leetcode-record/tree/main/src/main/java/top/pxyz/difficulty)
+
+[4.寻找两个正序数组的中位数](https://github.com/Ijiran/leetcode-record/tree/main/src/main/java/top/pxyz/difficulty/d4)
 
