@@ -28,6 +28,8 @@
 
 [8.字符串转换整数 (atoi)](https://github.com/Ijiran/leetcode-record/tree/main/src/main/java/top/pxyz/medium/m8)
 
+[433.最小基因变化](https://github.com/Ijiran/leetcode-record/tree/main/src/main/java/top/pxyz/medium/m433)
+
 [713.乘积小于 K 的子数组](https://github.com/Ijiran/leetcode-record/tree/main/src/main/java/top/pxyz/medium/m713)
 
 [1305.两棵二叉搜索树中的所有元素](https://github.com/Ijiran/leetcode-record/tree/main/src/main/java/top/pxyz/medium/m1305)
