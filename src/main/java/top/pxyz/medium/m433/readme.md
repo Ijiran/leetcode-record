@@ -1,6 +1,6 @@
 #### 题目
 
-[最小基因变化](https://leetcode-cn.com/problems/minimum-genetic-mutation/)
+[最小基因变化](https://leetcode.cn/problems/minimum-genetic-mutation/)
 
 #### 考点
 
@@ -14,4 +14,4 @@
 
 简直不要太快。
 
-![image.png](https://pic.leetcode-cn.com/1651943923-ezEWHA-image.png)
+![image.png](https://pic.leetcode.cn/1651943923-ezEWHA-image.png)

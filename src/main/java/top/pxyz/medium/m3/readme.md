@@ -1,6 +1,6 @@
 #### 题目
 
-[无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
+[无重复字符的最长子串](https://leetcode.cn/problems/longest-substring-without-repeating-characters/)
 
 #### 考点
 
@@ -16,4 +16,4 @@
 
 一开始想多判断一下特殊情况，结果聪明反被聪明误，又提交错好几次。
 
-![image.png](https://pic.leetcode-cn.com/1651200160-OiSVoN-image.png)
+![image.png](https://pic.leetcode.cn/1651200160-OiSVoN-image.png)

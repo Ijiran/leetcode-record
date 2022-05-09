@@ -1,6 +1,6 @@
 #### 题目
 
-[标签验证器](https://leetcode-cn.com/problems/tag-validator/)
+[标签验证器](https://leetcode.cn/problems/tag-validator/)
 
 #### 考点
 

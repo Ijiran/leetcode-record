@@ -1,6 +1,6 @@
 #### 题目
 
-[重新排列日志文件](https://leetcode-cn.com/problems/reorder-data-in-log-files/)
+[重新排列日志文件](https://leetcode.cn/problems/reorder-data-in-log-files/)
 
 #### 考点
 

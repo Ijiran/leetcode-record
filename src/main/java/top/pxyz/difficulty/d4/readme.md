@@ -1,6 +1,6 @@
 #### 题目
 
-[寻找两个正序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/)
+[寻找两个正序数组的中位数](https://leetcode.cn/problems/median-of-two-sorted-arrays/)
 
 #### 考点
 
@@ -14,4 +14,4 @@
 
 #### 执行结果
 
-![img.png](https://pic.leetcode-cn.com/1649857081-MyXKpZ-image.png)
+![img.png](https://pic.leetcode.cn/1649857081-MyXKpZ-image.png)

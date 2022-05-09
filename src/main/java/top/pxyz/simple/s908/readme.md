@@ -1,6 +1,6 @@
 #### 题目
 
-[最小差值 I](https://leetcode-cn.com/problems/smallest-range-i/)
+[最小差值 I](https://leetcode.cn/problems/smallest-range-i/)
 
 #### 考点
 
@@ -12,4 +12,4 @@
 
 #### 执行结果
 
-![img.png](https://pic.leetcode-cn.com/1651307817-wXXpVf-082b310915d31e12bae1bce447bb223.png)
+![img.png](https://pic.leetcode.cn/1651307817-wXXpVf-082b310915d31e12bae1bce447bb223.png)

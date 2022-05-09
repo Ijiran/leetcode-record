@@ -1,6 +1,6 @@
 #### 题目
 
-[乘积小于 K 的子数组](https://leetcode-cn.com/problems/subarray-product-less-than-k/)
+[乘积小于 K 的子数组](https://leetcode.cn/problems/subarray-product-less-than-k/)
 
 #### 考点
 
@@ -14,4 +14,4 @@
 
 #### 执行结果
 
-![image.png](https://pic.leetcode-cn.com/1651746587-ybLCeM-image.png)
+![image.png](https://pic.leetcode.cn/1651746587-ybLCeM-image.png)

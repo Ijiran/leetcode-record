@@ -1,6 +1,6 @@
 #### 题目
 
-[合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)
+[合并两个有序链表](https://leetcode.cn/problems/merge-two-sorted-lists/)
 
 #### 考点
 
@@ -14,4 +14,4 @@
 
 #### 执行结果
 
-![image.png](https://pic.leetcode-cn.com/1651050878-uguQid-image.png)
+![image.png](https://pic.leetcode.cn/1651050878-uguQid-image.png)

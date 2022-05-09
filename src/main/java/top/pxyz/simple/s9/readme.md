@@ -1,6 +1,6 @@
 #### 题目
 
-[回文数](https://leetcode-cn.com/problems/palindrome-number/)
+[回文数](https://leetcode.cn/problems/palindrome-number/)
 
 #### 考点
 
@@ -14,8 +14,8 @@
 
 第一种方法：
 
-![image.png](https://pic.leetcode-cn.com/1651070482-LwHegp-image.png)
+![image.png](https://pic.leetcode.cn/1651070482-LwHegp-image.png)
 
 第二种方法：
 
-![image.png](https://pic.leetcode-cn.com/1651072607-wUUdrw-image.png)
+![image.png](https://pic.leetcode.cn/1651072607-wUUdrw-image.png)

@@ -1,6 +1,6 @@
 #### 题目
 
-[字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/)
+[字符串转换整数 (atoi)](https://leetcode.cn/problems/string-to-integer-atoi/)
 
 #### 考点
 
@@ -12,4 +12,4 @@
 
 #### 执行结果
 
-![image.png](https://pic.leetcode-cn.com/1651226262-AoSttM-image.png)
+![image.png](https://pic.leetcode.cn/1651226262-AoSttM-image.png)

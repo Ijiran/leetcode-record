@@ -1,6 +1,6 @@
 #### 题目
 
-[两棵二叉搜索树中的所有元素](https://leetcode-cn.com/problems/all-elements-in-two-binary-search-trees/)
+[两棵二叉搜索树中的所有元素](https://leetcode.cn/problems/all-elements-in-two-binary-search-trees/)
 
 #### 考点
 
@@ -20,4 +20,4 @@
 
 第一次提交失败是因为没有给root1和root2二叉树判空，所以这点要注意一下。
 
-![image.png](https://pic.leetcode-cn.com/1651410662-duylrK-image.png)
+![image.png](https://pic.leetcode.cn/1651410662-duylrK-image.png)

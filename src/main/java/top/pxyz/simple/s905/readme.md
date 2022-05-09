@@ -1,6 +1,6 @@
 #### 题目
 
-[按奇偶排序数组](https://leetcode-cn.com/problems/sort-array-by-parity/submissions/)
+[按奇偶排序数组](https://leetcode.cn/problems/sort-array-by-parity/submissions/)
 
 #### 考点
 
@@ -14,4 +14,4 @@
 
 #### 执行结果
 
-![image.png](https://pic.leetcode-cn.com/1651114375-LLPDYg-image.png)
+![image.png](https://pic.leetcode.cn/1651114375-LLPDYg-image.png)
