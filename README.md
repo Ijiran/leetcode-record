@@ -18,6 +18,8 @@
 
 [28.实现 strStr()](https://github.com/Ijiran/leetcode-record/tree/main/src/main/java/top/pxyz/simple/s28)
 
+[58.最后一个单词的长度](https://github.com/Ijiran/leetcode-record/tree/main/src/main/java/top/pxyz/simple/s58)
+
 [905.按奇偶排序数组](https://github.com/Ijiran/leetcode-record/tree/main/src/main/java/top/pxyz/simple/s905)
 
 [908.最小差值 I](https://github.com/Ijiran/leetcode-record/tree/main/src/main/java/top/pxyz/simple/s908)
