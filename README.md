@@ -32,6 +32,8 @@
 
 [101.二叉树的最大深度](https://github.com/Ijiran/leetcode-record/tree/main/src/main/java/top/pxyz/simple/s101)
 
+[110.平衡二叉树](https://github.com/Ijiran/leetcode-record/tree/main/src/main/java/top/pxyz/simple/s110)
+
 [905.按奇偶排序数组](https://github.com/Ijiran/leetcode-record/tree/main/src/main/java/top/pxyz/simple/s905)
 
 [908.最小差值 I](https://github.com/Ijiran/leetcode-record/tree/main/src/main/java/top/pxyz/simple/s908)
