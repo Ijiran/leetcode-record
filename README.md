@@ -36,6 +36,8 @@
 
 [111.二叉树的最小深度](https://github.com/Ijiran/leetcode-record/tree/main/src/main/java/top/pxyz/simple/s111)
 
+[121.买卖股票的最佳时机](https://github.com/Ijiran/leetcode-record/tree/main/src/main/java/top/pxyz/simple/s121)
+
 [905.按奇偶排序数组](https://github.com/Ijiran/leetcode-record/tree/main/src/main/java/top/pxyz/simple/s905)
 
 [908.最小差值 I](https://github.com/Ijiran/leetcode-record/tree/main/src/main/java/top/pxyz/simple/s908)
