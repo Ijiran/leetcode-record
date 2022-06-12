@@ -46,6 +46,8 @@
 
 [160.相交链表](https://github.com/Ijiran/leetcode-record/tree/main/src/main/java/top/pxyz/simple/s160)
 
+[168.多数元素](https://github.com/Ijiran/leetcode-record/tree/main/src/main/java/top/pxyz/simple/s168)
+
 [905.按奇偶排序数组](https://github.com/Ijiran/leetcode-record/tree/main/src/main/java/top/pxyz/simple/s905)
 
 [908.最小差值 I](https://github.com/Ijiran/leetcode-record/tree/main/src/main/java/top/pxyz/simple/s908)
