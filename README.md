@@ -52,6 +52,8 @@
 
 [268. 丢失的数字](https://github.com/Ijiran/leetcode-record/tree/main/src/main/java/top/pxyz/simple/s268)
 
+[283. 移动零](https://github.com/Ijiran/leetcode-record/tree/main/src/main/java/top/pxyz/simple/s283)
+
 [905.按奇偶排序数组](https://github.com/Ijiran/leetcode-record/tree/main/src/main/java/top/pxyz/simple/s905)
 
 [908.最小差值 I](https://github.com/Ijiran/leetcode-record/tree/main/src/main/java/top/pxyz/simple/s908)
