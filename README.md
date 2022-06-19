@@ -48,6 +48,10 @@
 
 [168.多数元素](https://github.com/Ijiran/leetcode-record/tree/main/src/main/java/top/pxyz/simple/s168)
 
+[263. 丑数](https://github.com/Ijiran/leetcode-record/tree/main/src/main/java/top/pxyz/simple/s263)
+
+[268. 丢失的数字](https://github.com/Ijiran/leetcode-record/tree/main/src/main/java/top/pxyz/simple/s268)
+
 [905.按奇偶排序数组](https://github.com/Ijiran/leetcode-record/tree/main/src/main/java/top/pxyz/simple/s905)
 
 [908.最小差值 I](https://github.com/Ijiran/leetcode-record/tree/main/src/main/java/top/pxyz/simple/s908)
