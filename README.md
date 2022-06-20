@@ -54,6 +54,8 @@
 
 [283. 移动零](https://github.com/Ijiran/leetcode-record/tree/main/src/main/java/top/pxyz/simple/s283)
 
+[326. 3 的幂](https://github.com/Ijiran/leetcode-record/tree/main/src/main/java/top/pxyz/simple/s326)
+
 [905.按奇偶排序数组](https://github.com/Ijiran/leetcode-record/tree/main/src/main/java/top/pxyz/simple/s905)
 
 [908.最小差值 I](https://github.com/Ijiran/leetcode-record/tree/main/src/main/java/top/pxyz/simple/s908)
