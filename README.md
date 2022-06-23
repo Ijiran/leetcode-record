@@ -58,6 +58,8 @@
 
 [367. 有效的完全平方数](https://github.com/Ijiran/leetcode-record/tree/main/src/main/java/top/pxyz/simple/s367)
 
+[387. 字符串中的第一个唯一字符](https://github.com/Ijiran/leetcode-record/tree/main/src/main/java/top/pxyz/simple/s387)
+
 [905.按奇偶排序数组](https://github.com/Ijiran/leetcode-record/tree/main/src/main/java/top/pxyz/simple/s905)
 
 [908.最小差值 I](https://github.com/Ijiran/leetcode-record/tree/main/src/main/java/top/pxyz/simple/s908)
