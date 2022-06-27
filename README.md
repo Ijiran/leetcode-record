@@ -83,7 +83,7 @@
 [713.乘积小于 K 的子数组](https://github.com/Ijiran/leetcode-record/tree/main/src/main/java/top/pxyz/medium/m713)
 
 [1305.两棵二叉搜索树中的所有元素](https://github.com/Ijiran/leetcode-record/tree/main/src/main/java/top/pxyz/medium/m1305)
-
+  
 [1823.找出游戏的获胜者](https://github.com/Ijiran/leetcode-record/tree/main/src/main/java/top/pxyz/medium/m1823)
 
 #### [困难](https://github.com/Ijiran/leetcode-record/tree/main/src/main/java/top/pxyz/difficulty)
