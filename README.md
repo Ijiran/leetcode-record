@@ -60,6 +60,8 @@
 
 [387. 字符串中的第一个唯一字符](https://github.com/Ijiran/leetcode-record/tree/main/src/main/java/top/pxyz/simple/s387)
 
+[575. 分糖果](https://github.com/Ijiran/leetcode-record/tree/main/src/main/java/top/pxyz/simple/s575)
+
 [905.按奇偶排序数组](https://github.com/Ijiran/leetcode-record/tree/main/src/main/java/top/pxyz/simple/s905)
 
 [908.最小差值 I](https://github.com/Ijiran/leetcode-record/tree/main/src/main/java/top/pxyz/simple/s908)
